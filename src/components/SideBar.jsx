@@ -4,6 +4,7 @@ const Sidebar = ({ selectedCategory, setSelectedSubcategory }) => {
     Frontend: ["HTML", "CSS", "JAVASCRIPT", "REACT"],
     Backend: ["SPRING BOOT", "NODE.JS", "API REST"],
     Testing: ["JUNIT", "HAMCREST", "JEST"],
+    Ciberseguridad: ["REDES", "INYECION SQL", "CCNA", "TROYANDO"]
   };
     return (
       <div className="bg-[#D9B2FF] p-6 rounded-lg shadow-lg w-56">

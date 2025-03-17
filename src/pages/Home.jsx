@@ -15,8 +15,9 @@ const Home = () => {
           StackMentor es una plataforma diseñada para ayudarte a encontrar los mejores
           recursos para tu <span className="font-bold">bootcamp</span> y potenciar tu aprendizaje en{" "}
           <span className="text-[#6A0DAD] font-bold">Frontend</span>,{" "}
-          <span className="text-[#FF6600] font-bold">Backend</span> y{" "}
-          <span className="text-[#E63946] font-bold">Testing</span>.
+          <span className="text-[#FF6600] font-bold">Backend</span> ,{" "}
+          <span className="text-[#E63946] font-bold">Testing</span> y{" "}
+          <span className="text-[#E63946] font-bold">Ciberseguridad</span>.
         </p>
 
         <div className="mt-6 flex flex-col md:flex-row gap-4 justify-center">
@@ -82,7 +83,7 @@ const Home = () => {
       </div>
 
       <div className="mt-12 max-w-3xl text-center">
-        <h3 className="text-2xl font-bold text-[#6A0DAD] mb-4">🚀 ¿Por qué usar StackMentor?</h3>
+        <h3 className="text-2xl font-bold text-[#6A0DAD] mb-4">🚀 ¿Por qué usar CodeCampDev?</h3>
         <ul className="text-gray-700 space-y-2">
           <li>✅ Accede a recursos curados por expertos.</li>
           <li>✅ Organiza tu aprendizaje de manera eficiente.</li>

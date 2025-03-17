@@ -14,6 +14,7 @@ const ResourceForm = ({ onResourceAdded, closeModal }) => {
     Frontend: ["HTML", "CSS", "JAVASCRIPT", "REACT"],
     Backend: ["SPRING BOOT", "NODE.JS", "API REST"],
     Testing: ["JUNIT", "HAMCREST", "JEST"],
+    Ciberseguridad: ["REDES", "INYECION SQL", "CCNA", "TROYANDO"]
   };
 
   const handleFileChange = (e) => {

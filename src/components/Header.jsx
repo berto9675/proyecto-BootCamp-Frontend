@@ -14,7 +14,7 @@ const Header = ({ setSelectedCategory }) => {
 
         <div className="flex items-center gap-8">
           <Link to="/" className="text-white text-2xl font-bold">
-            <span className="font-extrabold">Stack</span>Mentor
+            <span className="font-extrabold">CodeCamp</span>Dev
           </Link>
 
           <div className="relative">
